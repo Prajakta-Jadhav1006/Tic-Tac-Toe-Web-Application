@@ -1,0 +1,1 @@
+This is a Tic-Tac-Toe game with two modes: 2 Player and vs Computer. It features a 3×3 grid, responsive UI, and win/draw detection. The computer makes random moves. Built using HTML, CSS, and JavaScript for interactive gameplay and smooth user experience.
